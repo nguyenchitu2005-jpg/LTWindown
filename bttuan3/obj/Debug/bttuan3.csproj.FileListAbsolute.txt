@@ -1,0 +1,11 @@
+D:\ltwindown\bttuan3\bin\Debug\bttuan3.exe.config
+D:\ltwindown\bttuan3\bin\Debug\bttuan3.exe
+D:\ltwindown\bttuan3\bin\Debug\bttuan3.pdb
+D:\ltwindown\bttuan3\obj\Debug\bttuan3.csproj.AssemblyReference.cache
+D:\ltwindown\bttuan3\obj\Debug\bttuan3.Form1.resources
+D:\ltwindown\bttuan3\obj\Debug\bttuan3.Properties.Resources.resources
+D:\ltwindown\bttuan3\obj\Debug\bttuan3.csproj.GenerateResource.cache
+D:\ltwindown\bttuan3\obj\Debug\bttuan3.csproj.CoreCompileInputs.cache
+D:\ltwindown\bttuan3\obj\Debug\bttuan3.exe
+D:\ltwindown\bttuan3\obj\Debug\bttuan3.pdb
+D:\ltwindown\bttuan3\obj\Debug\bttuan3.exe.config
